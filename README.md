@@ -1,7 +1,7 @@
 # Hola a todos 👋 Soy Franco Guerrero
 
 **Estudiante de Medicina & Ciencias de datos | Apasionado por la tecnología aplicada a la salud**  
-📍 Don Torcuato, Tigre | 📧 guerrero.fvg@gmail.com | 🧠 [Portfolio en GitHub](https://github.com/franvg99/portafolio) | 🔗 [LinkedIn](https://www.linkedin.com/in/fguerrero99)
+📍 Don Torcuato, Tigre | 📧 guerrero.fvg@gmail.com | 🧠 [Portfolio en GitHub](https://github.com/franvg99/portafolio)
 
 ---
 
