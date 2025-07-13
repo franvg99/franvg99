@@ -15,7 +15,7 @@ Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochiet
 
 ## 🚀 Presentacion de Proyectos
 
-### 🛵 [Análisis de Accidentes en Motovehículos - CABA](https://github.com/franvg99/portafolio/blob/main/Proyecto%20Data%20Analytics.pdf)
+### 🛵 [Análisis de Accidentes en Motovehículos - CABA](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf)
 > Proyecto final - Data Analytics / Coderhouse
 - Limpieza, segmentación y visualización de datos del portal B.A. Data (archivo XLS).  
 - Formulación de hipótesis orientada a la prevención y reducción de siniestros viales.  
@@ -23,19 +23,19 @@ Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochiet
 - Implementacion de tablero interactivo en Power BI para visualizar patrones claves.
 
 
-### 📈 [Predicción de Readmisión de Pacientes](https://github.com/franvg99/portafolio/blob/main/Proyecto%20Data%20Science.ipynb)
+### 📈 [Predicción de Readmisión de Pacientes](https://github.com/franvg99/portfolio/blob/main/Proyecto-Readmision.ipynb)
 > Proyecto final - Data Science I & II / Coderhouse  
 - Limpieza y análisis exploratorio de datos médicos sintéticos.  
 - Modelado predictivo con XGBoost para clasificación binaria.  
 - Evaluación de desempeño con métricas como accuracy, precision, recall y F1-score.
 
-### 📰 [Clasificación de Noticias Falsas con NLP](https://github.com/franvg99/portafolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb)  
+### 📰 [Clasificación de Noticias Falsas con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb)  
 > Proyecto Final - Data Science III / Coderhouse
 - Tokenización y preprocesamiento de títulos de noticias con NLTK y Keras.  
 - Construcción de modelo secuencial con capas de embedding, pooling y regularización.  
 - Evaluación con gráficas de precisión y pérdida en entrenamiento y validación.  
 
-### ❤️ [Predicción de Ataques al Corazón](https://github.com/franvg99/portafolio/blob/main/Proyecto%20Hearts%20Attacks.ipynb)  
+### ❤️ [Predicción de Ataques al Corazón](https://github.com/franvg99/portfolio/blob/main/Prediccion_Ataque_Corazon.ipynb)  
 > Proyecto personal | Base de datos de Kaggle.
 - Análisis exploratorio del dataset de factores de riesgo cardiovasculares.  
 - Entrenamiento de modelo con algoritmos de machine learning (Random Forest, XGBoost, etc.).  
