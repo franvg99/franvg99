@@ -18,9 +18,9 @@ Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochiet
 
 ### 🏥 [Análisis de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales)
 > Proyecto personal - Data Engineering & BI
-- **ETL con Python:** Desarrollo de un pipeline de extracción, limpieza y transformación de datos presupuestarios públicos usando `pandas`.
-- **Modelado Dimensional:** Creación de un **Esquema de Estrella** (tablas de hechos y dimensiones) para normalizar datos de hospitales, actividades y ubicación geográfica.
-- **Visualización en Power BI:** Dashboard interactivo con KPIs de ejecución presupuestaria (% Devengado vs Vigente) y mapas de calor por comunas.
+- Desarrollo de un pipeline de extracción, limpieza y transformación de datos presupuestarios públicos usando `pandas`.
+- Creación de un **Esquema de Estrella** (tablas de hechos y dimensiones) para normalizar datos de hospitales, actividades y ubicación geográfica.
+- Dashboard interactivo con KPIs de ejecución presupuestaria (% Devengado vs Vigente) y mapas de calor por comunas.
 
 ### 🛵 [Análisis de Accidentes en Motovehículos - CABA](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf)
 > Proyecto final - Data Analytics / Coderhouse
