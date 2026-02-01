@@ -2,7 +2,7 @@
 
 **Estudiante de Ciencias de datos & Automatizacion | Transformando datos en soluciones estratégicas** 
 
-📍 Don Torcuato, Tigre | 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) | 🧠 [Portfolio en GitHub](https://github.com/franvg99/portafolio)
+📍 Don Torcuato, Tigre | 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) | 🌐 **Sitio Web:** [Franco Guerrero | Portfolio](https://francoguerrero.framer.website/)
 
 ---
 
