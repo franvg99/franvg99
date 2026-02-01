@@ -16,15 +16,15 @@ Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochiet
 
 ## 📈 Proyectos Destacados
 
-### 🤖 Inteligencia Artificial & Automatización (AI Automation)
+### Inteligencia Artificial & Automatización
 * **[Analisis de la tendencia de Bitcoin](https://github.com/franvg99/tu-repo):** Desarrollo de un workflow automatizado que extrae datos financieros vía API, los procesa con modelos de Google AI para análisis técnico, reporta resultados en Google Sheets en tiempo real y envia una notificacion via email.
 * **[Clasificación de Noticias con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb):** Implementación de redes neuronales con Keras y NLTK para la detección de desinformación.
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 * **[Predicción de Readmisión de Pacientes](https://github.com/franvg99/portfolio/blob/main/Proyecto-Readmision.ipynb):** Modelo predictivo con **XGBoost** orientado a la mejora de la gestión hospitalaria y reducción de costos médicos.
 * **[Análisis de Riesgo Cardiovascular](https://github.com/franvg99/portfolio/blob/main/Prediccion_Ataque_Corazon.ipynb):** Entrenamiento de algoritmos de clasificación (Random Forest) para la identificación temprana de factores de riesgo.
 
-### 🏗️ Data Engineering & Analytics
+### Data Engineering & Analytics
 * **[Pipeline de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales):** Proceso ETL completo y modelado dimensional (**Star Schema**) para el análisis de ejecución presupuestaria pública.
 * **[Análisis de Siniestralidad Vial](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf):** Transformación de datos crudos en insights accionables mediante visualización avanzada en Power BI.
 
