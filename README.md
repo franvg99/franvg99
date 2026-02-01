@@ -17,7 +17,7 @@ Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochiet
 ## 📈 Proyectos Destacados
 
 ### Inteligencia Artificial & Automatización
-* **[Analisis de la tendencia de Bitcoin]([https://github.com/franvg99/tu-repo](https://github.com/franvg99/Alertas_bitcoin):** Desarrollo de un workflow automatizado que extrae datos financieros vía API, los procesa con modelos de Google AI para análisis técnico, reporta resultados en Google Sheets en tiempo real y envia una notificacion via email.
+* **[Analisis de la tendencia de Bitcoin](https://github.com/franvg99/Alertas_bitcoin):** Desarrollo de un workflow automatizado que extrae datos financieros vía API, los procesa con modelos de Google AI para análisis técnico, reporta resultados en Google Sheets en tiempo real y envia una notificacion via email.
 * **[Clasificación de Noticias con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb):** Implementación de redes neuronales con Keras y NLTK para la detección de desinformación.
 
 ### Data Science & Machine Learning
