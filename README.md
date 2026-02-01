@@ -1,62 +1,43 @@
-# Hola a todos 👋 Soy Franco Guerrero.
+# Hola, Soy Franco Guerrero 👋
 
-**Estudiante de Medicina & Ciencias de datos | Apasionado por la tecnología aplicada a la salud** 
+**Estudiante de Ciencias de datos & Automatizacion | Transformando datos en soluciones estratégicas** 
 
-📍 Don Torcuato, Tigre | 📧 guerrero.fvg@gmail.com | 🧠 [Portfolio en GitHub](https://github.com/franvg99/portafolio)
+📍 Don Torcuato, Tigre | 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) | 🧠 [Portfolio en GitHub](https://github.com/franvg99/portafolio)
 
 ---
 
 ## 💡 Sobre mí
 
-Soy estudiante de Medicina (UBA) y Data Science (Coderhouse & Teclab), con una fuerte orientación a integrar la ciencia de datos en el ámbito de la salud. Me destaco por mi compromiso, atención al detalle y vocación de servicio. Me motiva transformar datos en información útil para optimizar procesos médicos y administrativos.
+Soy un profesional enfocado en la **Ciencia de Datos y la Automatización de Procesos**. Mi trayectoria combina una sólida base técnica con un profundo conocimiento del sector salud, lo que me permite diseñar soluciones que no solo analizan información, sino que optimizan la operatividad real.
 
 Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochietto, donde además de mis tareas administrativas, me gusta aportar con el desarrollo de proyectos que mejoran la eficiencia en el manejo de datos y la toma de decisiones.
 
 ---
 
-## 🚀 Presentación de Proyectos
+## 📈 Proyectos Destacados
 
-### 🏥 [Análisis de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales)
-> Proyecto personal - Data Engineering & BI
-- Desarrollo de un pipeline de extracción, limpieza y transformación de datos presupuestarios públicos usando `pandas`.
-- Creación de un **Esquema de Estrella** (tablas de hechos y dimensiones) para normalizar datos de hospitales, actividades y ubicación geográfica.
-- Dashboard interactivo con KPIs de ejecución presupuestaria (% Devengado vs Vigente) y mapas de calor por comunas.
+### 🤖 Inteligencia Artificial & Automatización (AI Automation)
+* **[Analisis de la tendencia de Bitcoin](https://github.com/franvg99/tu-repo):** Desarrollo de un workflow automatizado que extrae datos financieros vía API, los procesa con modelos de Google AI para análisis técnico, reporta resultados en Google Sheets en tiempo real y envia una notificacion via email.
+* **[Clasificación de Noticias con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb):** Implementación de redes neuronales con Keras y NLTK para la detección de desinformación.
 
-### 🛵 [Análisis de Accidentes en Motovehículos - CABA](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf)
-> Proyecto final - Data Analytics / Coderhouse
-- Limpieza, segmentación y visualización de datos del portal B.A. Data.  
-- Formulación de hipótesis orientada a la prevención y reducción de siniestros viales.  
-- Identificación de variables críticas como horario, condiciones climáticas y tipo de vía.
-- Implementación de tablero interactivo en Power BI para visualizar patrones claves.
+### 📊 Data Science & Machine Learning
+* **[Predicción de Readmisión de Pacientes](https://github.com/franvg99/portfolio/blob/main/Proyecto-Readmision.ipynb):** Modelo predictivo con **XGBoost** orientado a la mejora de la gestión hospitalaria y reducción de costos médicos.
+* **[Análisis de Riesgo Cardiovascular](https://github.com/franvg99/portfolio/blob/main/Prediccion_Ataque_Corazon.ipynb):** Entrenamiento de algoritmos de clasificación (Random Forest) para la identificación temprana de factores de riesgo.
 
-### 📈 [Predicción de Readmisión de Pacientes](https://github.com/franvg99/portfolio/blob/main/Proyecto-Readmision.ipynb)
-> Proyecto final - Data Science I & II / Coderhouse  
-- Limpieza y análisis exploratorio de datos médicos sintéticos.  
-- Modelado predictivo con XGBoost para clasificación binaria.  
-- Evaluación de desempeño con métricas como accuracy, precision, recall y F1-score.
-
-### 📰 [Clasificación de Noticias Falsas con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb)  
-> Proyecto Final - Data Science III / Coderhouse
-- Tokenización y preprocesamiento de títulos de noticias con NLTK y Keras.  
-- Construcción de modelo secuencial con capas de embedding, pooling y regularización.  
-- Evaluación con gráficas de precisión y pérdida en entrenamiento y validación.  
-
-### ❤️ [Predicción de Ataques al Corazón](https://github.com/franvg99/portfolio/blob/main/Prediccion_Ataque_Corazon.ipynb)  
-> Proyecto personal | Base de datos de Kaggle.
-- Análisis exploratorio del dataset de factores de riesgo cardiovasculares.  
-- Entrenamiento de modelo con algoritmos de machine learning (Random Forest, XGBoost).  
-- Interpretación de variables más influyentes para la toma de decisiones clínicas.
+### 🏗️ Data Engineering & Analytics
+* **[Pipeline de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales):** Proceso ETL completo y modelado dimensional (**Star Schema**) para el análisis de ejecución presupuestaria pública.
+* **[Análisis de Siniestralidad Vial](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf):** Transformación de datos crudos en insights accionables mediante visualización avanzada en Power BI.
 
 ---
 
 ## 🧰 Habilidades Técnicas
 
-- **Python:** pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, keras  
-- **Ingeniería de Datos:** Procesos ETL, Modelado Dimensional (Star Schema), Limpieza de datos.
-- **Power BI / Looker Studio / Tableau:** creación de dashboards, DAX y visualización de KPIs.  
-- **SQL:** joins, subconsultas, funciones agregadas, optimización de consultas.  
-- **Excel / Google Sheets:** tablas dinámicas, fórmulas anidadas.  
-- **Estadística Aplicada:** descriptiva, inferencial y regresión.  
+| Área | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | Python, SQL, DAX |
+| **Automatización** | n8n & Make |
+| **Data Viz** | Power BI & Tableau |
+| **Cloud & Tools** | Google Cloud, GitHub, Excel Avanzado |
 
 ---
 
