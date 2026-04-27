@@ -1,81 +1,75 @@
 # Hola, Soy Franco Guerrero 👋
 
-**Estudiante de Ciencias de datos & Automatizacion | Transformando datos en soluciones estratégicas** 
+**AI Automation & Data Consultant | Transformando procesos en soluciones inteligentes**
 
-📍 Don Torcuato, Tigre | 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) | 🌐 **Sitio Web:** [Franco Guerrero | Portfolio](https://francoguerrero.framer.website/)
+📍 Don Torcuato, Buenos Aires &nbsp;|&nbsp; 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://francoguerrero.framer.website/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/fguerrero99)
 
 ---
 
 ## 💡 Sobre mí
 
-Soy un profesional enfocado en la **Ciencia de Datos y la Automatización de Procesos**. Mi trayectoria combina una sólida base técnica con un profundo conocimiento del sector salud, lo que me permite diseñar soluciones que no solo analizan información, sino que optimizan la operatividad real.
+Consultor especializado en **automatización con IA** y **análisis de datos**. Diseño e implemento flujos que eliminan tareas manuales repetitivas, estructuran datos dispersos y generan información accionable para la toma de decisiones.
 
-Actualmente trabajo en el área de gestión de pacientes del Sanatorio Finochietto, donde además de mis tareas administrativas, me gusta aportar con el desarrollo de proyectos que mejoran la eficiencia en el manejo de datos y la toma de decisiones.
-
----
-
-## 📈 Proyectos Destacados
-
-### Inteligencia Artificial & Automatización
-* **[Analisis de la tendencia de Bitcoin](https://github.com/franvg99/Alertas_bitcoin):** Desarrollo de un workflow automatizado que extrae datos financieros vía API, los procesa con modelos de Google AI para análisis técnico, reporta resultados en Google Sheets en tiempo real y envia una notificacion via email.
-* **[Clasificación de Noticias con NLP](https://github.com/franvg99/portfolio/blob/main/Clasificacion_Noticias_Falsas_NLP.ipynb):** Implementación de redes neuronales con Keras y NLTK para la detección de desinformación.
-
-### Data Science & Machine Learning
-* **[Predicción de Readmisión de Pacientes](https://github.com/franvg99/portfolio/blob/main/Proyecto-Readmision.ipynb):** Modelo predictivo con **XGBoost** orientado a la mejora de la gestión hospitalaria y reducción de costos médicos.
-* **[Análisis de Riesgo Cardiovascular](https://github.com/franvg99/portfolio/blob/main/Prediccion_Ataque_Corazon.ipynb):** Entrenamiento de algoritmos de clasificación (Random Forest) para la identificación temprana de factores de riesgo.
-
-### Data Engineering & Analytics
-* **[Pipeline de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales):** Proceso ETL completo y modelado dimensional (**Star Schema**) para el análisis de ejecución presupuestaria pública.
-* **[Análisis de Siniestralidad Vial](https://github.com/franvg99/portfolio/blob/main/Factores_Riesgo_MotoVehiculos.pdf):** Transformación de datos crudos en insights accionables mediante visualización avanzada en Power BI.
+Trabajo para construir soluciones concretas: desde procesamiento automático de documentos hasta dashboards de seguimiento operativo.
 
 ---
 
-## 🧰 Habilidades Técnicas
+## 🚀 Proyectos Destacados
+
+### Automatización con IA
+
+* **[Procesador Inteligente de Facturas](https://github.com/franvg99/procesador-inteligente-facturas)**
+  Flujo en n8n que monitorea Gmail, extrae datos fiscales de PDFs (digitales y escaneados) con GPT-4o y los registra automáticamente en Google Sheets. Incluye manejo de errores en tres niveles y dashboard en Looker Studio.
+  `n8n` `OpenAI` `Gmail API` `Google Sheets` `Looker Studio`
+
+* **[Automatización de Alertas de Bitcoin](https://github.com/franvg99/Alertas_bitcoin)**
+  Workflow que obtiene precios vía CoinGecko API, analiza la tendencia con Google Gemini (Price Action), registra resultados en Sheets y envía alertas por email con reporte HTML cuando detecta movimiento relevante.
+  `n8n` `Google Gemini` `CoinGecko API` `Google Sheets`
+
+### Data Analytics
+
+* **[EDA de E-Commerce Olist con SQL](https://github.com/franvg99/olist-sql-eda)**
+  Análisis exploratorio completo 100% en BigQuery: auditoría de calidad, limpieza con CTEs encadenadas, segmentación RFM y análisis de tendencia MoM sobre ~99.000 pedidos.
+  `BigQuery` `SQL` `Window Functions` `CTEs` `RFM`
+
+* **[Pipeline de Presupuesto Hospitalario - GCBA](https://github.com/franvg99/Presupuesto_Hospitales)**
+  ETL completo con Python (Pandas) y modelado dimensional en Star Schema para análisis de ejecución presupuestaria pública. Dashboard interactivo en Power BI con mapas coropléticos y KPIs DAX.
+  `Python` `Pandas` `Power BI` `DAX` `Star Schema`
+
+---
+
+## 🧰 Stack Tecnológico
 
 | Área | Herramientas |
 | :--- | :--- |
-| **Lenguajes** | Python, SQL, DAX |
-| **Automatización** | n8n & Make |
-| **Data Viz** | Power BI & Tableau |
-| **Cloud & Tools** | Google Cloud, GitHub, Excel Avanzado |
+| **Automatización** | n8n · Make · Power Automate|
+| **IA & LLMs** | OpenAI · Google Gemini · Anthropic Claude |
+| **Lenguajes** | Python · SQL |
+| **Data & Analytics** | BigQuery · Excel · Google Sheets · Power BI · Looker Studio |
+| **Cloud & Infra** | Google Cloud Platform · AWS Cloud · Docker · GitHub |
+| **Workspace** | Notion · Google Workspace · Office 365 |
 
 ---
 
-## 🎓 Formación Académica
+## 🎓 Formación
 
-- **Medicina** — UBA, Facultad de Medicina (2022 - Actualidad)  
 - **Tecnicatura en Data Science** — Teclab (2025 - Actualidad)
+- **Carrera en AI Automation** — Coderhouse (2025 - 2026)
 - **Carrera en Ciencias de Datos** — Coderhouse (2024 - 2025)
-- **Carrera en AI Automation** - Coderhouse (2025 - Actualidad)
 
 ---
 
 ## 🌍 Idiomas
 
-- Español: Nativo  
-- Inglés: Intermedio  
+- Español: Nativo
+- Inglés: Intermedio (Lectura tecnica fluida)
 
 ---
 
 ## 📫 ¡Hablemos!
 
-Estoy abierto a colaboraciones, propuestas y nuevos desafíos profesionales. Si tenés un proyecto relacionado con salud, datos o tecnología, ¡Me encantaría escucharte!
+Abierto a proyectos de automatización, análisis de datos y consultoría. Si tenés un proceso manual que querés eliminar o datos que no estás aprovechando, escribime.
 
 ---
 
-_“Trabajar con datos en salud es comprometerse con cada paciente, incluso antes de que llegue.”_
-
-<!--
-**franvg99/franvg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"El mejor proceso es el que no necesita intervención humana para funcionar."*
