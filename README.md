@@ -10,13 +10,17 @@
 
 Consultor especializado en **automatización con IA** y **análisis de datos**. Diseño e implemento flujos que eliminan tareas manuales repetitivas, estructuran datos dispersos y generan información accionable para la toma de decisiones.
 
-Trabajo para construir soluciones concretas: desde procesamiento automático de documentos hasta dashboards de seguimiento operativo.
+Trabajo en soluciones concretas: desde agentes conversacionales que operan 24/7 hasta pipelines de datos y dashboards de seguimiento operativo.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 ### Automatización con IA
+
+* **[Bot Secretario Digital](https://github.com/franvg99/Bot-Secretario-Digital)**
+  Agente conversacional que actúa como secretario digital para consultorios médicos. Los pacientes escriben por Telegram y el agente gestiona turnos, recetas y resultados de estudios — identificando al paciente por DNI, validando su obra social, registrando la solicitud en Notion y notificando al médico por email.
+  `Python` `LangGraph` `FastAPI` `OpenAI` `Notion API` `Gmail API` `Telegram`
 
 * **[Procesador Inteligente de Facturas](https://github.com/franvg99/procesador-inteligente-facturas)**
   Flujo en n8n que monitorea Gmail, extrae datos fiscales de PDFs (digitales y escaneados) con GPT-4o y los registra automáticamente en Google Sheets. Incluye manejo de errores en tres niveles y dashboard en Looker Studio.
@@ -42,11 +46,12 @@ Trabajo para construir soluciones concretas: desde procesamiento automático de 
 
 | Área | Herramientas |
 | :--- | :--- |
-| **Automatización** | n8n · Make · Power Automate|
+| **Agentes & Frameworks** | LangGraph · LangChain · FastAPI |
+| **Automatización** | n8n · Make · Power Automate |
 | **IA & LLMs** | OpenAI · Google Gemini · Anthropic Claude |
 | **Lenguajes** | Python · SQL |
 | **Data & Analytics** | BigQuery · Excel · Google Sheets · Power BI · Looker Studio |
-| **Cloud & Infra** | Google Cloud Platform · AWS Cloud · Docker · GitHub |
+| **Cloud & Infra** | Google Cloud Platform · AWS Cloud · Docker · Railway · GitHub |
 | **Workspace** | Notion · Google Workspace · Office 365 |
 
 ---
