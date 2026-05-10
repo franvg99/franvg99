@@ -1,6 +1,6 @@
 # Hola, Soy Franco Guerrero 👋
 
-**AI Automation & Data Consultant | Transformando procesos en soluciones inteligentes**
+**Data & AI Consultant | Transformando procesos en soluciones inteligentes**
 
 📍 Don Torcuato, Buenos Aires &nbsp;|&nbsp; 📧 [guerrero.fvg@gmail.com](mailto:guerrero.fvg@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://francoguerrero.framer.website/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/fguerrero99)
 
